@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main (void) {
 
   float quant, valAluguel, fatAnual, multas, quantFinal;
 
